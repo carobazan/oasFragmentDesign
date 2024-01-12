@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "apiVersion": "v1",
+  "descriptorVersion": "1.0.0",
+  "classifier": "oas-components",
+  "main": "oasfragmentdesign.yaml",
+  "assetId": "oasfragmentdesign",
+  "groupId": "3cbbe9f3-c66b-4187-97cf-f07ee5f66c13",
+  "organizationId": "3cbbe9f3-c66b-4187-97cf-f07ee5f66c13",
+  "name": "oasFragmentDesign"
+}
