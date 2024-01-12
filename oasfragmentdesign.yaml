@@ -3,7 +3,13 @@ info:
   version: 1.0.0
   title: oasfragmentdesign
 paths: {}
+
 components: 
+  securitySchemes:
+      basic:
+          type: apiKey
+          in: header
+          name: Basic auth
   examples:
       FligthExample:
         value: 
